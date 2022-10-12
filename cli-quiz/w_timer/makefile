@@ -1,2 +1,2 @@
 all: main.go cli_quiz.go
-	go build
+	go build -o quiz

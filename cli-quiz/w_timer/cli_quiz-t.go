@@ -8,7 +8,7 @@ import (
 	"os"
 )
 
-func cliQuiz() {
+func cliQuizTimer() {
 	csvFileName := flag.String(
 		"file",
 		"problems.csv",
